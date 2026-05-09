@@ -7,11 +7,6 @@
 ### Código de la solución fuerza bruta:
 class Solution:
 
-    """
-    Docusing - FUERZA BRUTA
-    complejidad de tiempo O(n2) se tiene dos bucles anidados
-    se debe hacer nxn comparaciones
-    """
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = len(nums)
         for i in range(n):
@@ -19,7 +14,13 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
         return []
- 
+        
+### complejidad 
+    
+    Docusing - FUERZA BRUTA
+    complejidad de tiempo O(n2) se tiene dos bucles anidados
+    se debe hacer nxn comparaciones
+  
 ### Código de la solución optima:
 ```python
 class Solution:
