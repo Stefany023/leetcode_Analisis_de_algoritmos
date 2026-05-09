@@ -1,7 +1,7 @@
 ## SOLUCIÓN
 
 ### Enlace al problema en LeetCode: 
- https://leetcode.com/problems/longest-increasing-subsequence/
+  https://leetcode.com/problems/two-sum/
  
 ### Código de la solución:
 ```python
