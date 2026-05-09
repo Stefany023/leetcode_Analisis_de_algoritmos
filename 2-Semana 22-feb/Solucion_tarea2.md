@@ -1,7 +1,7 @@
 ## SOLUCIÓN
 
 ### Enlace al problema en LeetCode: 
-  [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/maximum-subarray/)
+ https://leetcode.com/problems/maximum-subarray/
 
 
 ### Código de la solución:
