@@ -7,6 +7,7 @@
 ### Código de la solución:
 
 class Solution(object):
+    
     def eraseOverlapIntervals(self, intervals):
 
         if not intervals:
