@@ -4,7 +4,7 @@
   https://leetcode.com/problems/two-sum/
 
 
-### Código de la solución fuerza bruta:
+### Código de la solución fuerza bruta_prueba rama:
 class Solution:
 
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -21,7 +21,7 @@ class Solution:
     complejidad de tiempo O(n2) se tiene dos bucles anidados
     se debe hacer nxn comparaciones
   
-### Código de la solución optima:
+### Código de la solución optima prueba rama:
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
